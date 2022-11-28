@@ -1,0 +1,1 @@
+implement movie fetch for each type of genres movie
