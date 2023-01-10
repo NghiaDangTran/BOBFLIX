@@ -1,0 +1,13 @@
+import Landing from './Landing'
+import Home from './Home'
+import Movies from './Movies'
+import List from './List'
+import Search from './Search'
+import PrivateRoute from './PrivateRoute'
+import LayOut from './LayOut'
+import Login from './Login'
+import Register from './Register'
+import ForgotPass from './ForgotPass'
+import VerifyEmail from './VerifyEmail'
+import ResetPassword from './ResetPassword'
+export { Landing, Home, Movies, List, Search, PrivateRoute, LayOut,Login,Register,ForgotPass,VerifyEmail ,ResetPassword}

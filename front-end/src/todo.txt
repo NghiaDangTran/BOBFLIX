@@ -1,0 +1,3 @@
+implement movie fetch for each type of genres movie
+
+https://bobflix.onrender.com/
