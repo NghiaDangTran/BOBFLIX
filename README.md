@@ -1,5 +1,39 @@
 # BOBFLIX
 
+
+
+
+# Register
+
+https://user-images.githubusercontent.com/33323750/211640871-0d6ff0fa-2033-4d6a-84b8-a2f893710d94.mp4
+
+
+
+
+
+# forgotpass and signin
+https://user-images.githubusercontent.com/33323750/211641019-7030e752-d70f-4a60-b62e-ebad4d5b686c.mp4
+
+
+# Demo
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/33323750/211640734-79d77889-262a-46a6-af8b-8fe06d38e26b.mp4
+
+
+
+
+https://user-images.githubusercontent.com/33323750/211640755-314ea832-ddfc-46ff-af99-648cc953c17b.mp4
+
+https://user-images.githubusercontent.com/33323750/211640769-011cee47-01f2-490a-873b-12014a20897b.mp4
+
+
+
 # Figma home page design
 ![image](https://user-images.githubusercontent.com/33323750/185719347-e9ab8960-053d-493e-a337-bae23169634d.png)
 
