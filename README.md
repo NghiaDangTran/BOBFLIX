@@ -1,6 +1,14 @@
 # BOBFLIX
 
 
+# Streaming
+
+
+
+https://user-images.githubusercontent.com/33323750/211650764-4edf01dd-3a04-429a-963b-e408acffc4e8.mp4
+
+
+
 
 
 # Register
