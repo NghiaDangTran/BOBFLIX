@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bobflix-dev-210623-authRole",
+      "UnauthRoleArn": "arn:aws:iam::037434121358:role/amplify-bobflix-dev-210623-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::037434121358:role/amplify-bobflix-dev-210623-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-bobflix-dev-210623-deployment",
+      "UnauthRoleName": "amplify-bobflix-dev-210623-unauthRole",
+      "StackName": "amplify-bobflix-dev-210623",
+      "StackId": "arn:aws:cloudformation:ca-central-1:037434121358:stack/amplify-bobflix-dev-210623/38435e80-8fc2-11ed-8be7-0ae96ff3ecba",
+      "AmplifyAppId": "d3e2h2wn6zm3q2"
+    }
+  }
+}
